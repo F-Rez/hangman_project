@@ -40,7 +40,4 @@ hangman_project/
 Escribe cada título nuevo en una línea de `wordlist.txt`. El archivo debe estar guardado en UTF-8.
 
 ## Autores
-
-- Catherine Ohaco
-- Martín García
 - Felipe Rezende
